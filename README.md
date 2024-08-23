@@ -7,6 +7,8 @@ Laravel Domestic application store from the REChain ®️ brand 🪐 Script. Mad
 
 Welcome to REChain.Store, the official digital marketplace provided by rechain.RU. This platform serves as a versatile hub for downloading, distributing, and managing software across various platforms such as iOS, Android, Windows, and Linux. It focuses on delivering secure, open-source solutions, making it a reliable choice for users and developers alike.
 
+![badge](https://github.com/user-attachments/assets/1f051bc4-115b-4456-9c6a-75c4a6f94582)
+
 ## Table of Contents
 
 - [Platform Overview](#platform-overview)
